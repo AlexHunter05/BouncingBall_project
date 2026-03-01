@@ -5,5 +5,5 @@ Contents
 1. Bouncing Ball Supplementary material
 2. Bouncing Ball code
 3. Plinko board code
-4.
+4. Plinko animations
 5.
